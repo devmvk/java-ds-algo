@@ -2,6 +2,15 @@ package devmvk.strings;
 
 import java.util.StringJoiner;
 
+
+
+/*
+Reverse words in a given string
+https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1#
+
+Given a String S, reverse the string without reversing its individual words. Words are separated by dots.
+
+*/
 public class ReverseStringWords {
 
     public static String reverseString(String phrase){
